@@ -1,5 +1,7 @@
 # greenk
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brunoqueiroz/greenk.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
